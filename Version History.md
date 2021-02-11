@@ -9,7 +9,7 @@ Speech to Text Recognition
 0.4   - Added support to use Tensorflow backend libraries form system sites (--systemsite) 
 0.41  - Created and activated new virtual environment  
 0.5  - Added a fourth Conv1d Layer 
-0.6   - Enhanced loss function 
+0.6   - Enhanced loss function  
 0.61   - Implemented EarlyCheckpoints (MANDATORY) 
 0.62  -  Increased Training Model batch size to 32 (Efficient and faster) 
 0.7   - Using SoundFile, SoundDevice instead of PyAudio 
