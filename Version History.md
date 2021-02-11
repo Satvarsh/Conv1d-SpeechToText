@@ -1,4 +1,4 @@
-# Transformers
+# Conv1d Model
 Speech to Text Recognition - Conv1d Approach Version History 
 
 0.1   - Testing and establishing more data sets<br>
