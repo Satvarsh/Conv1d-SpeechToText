@@ -1,8 +1,8 @@
 # Transformers
-Speech to Text Recognition 
+Speech to Text Recognition - Conv1d Approach Version History 
 
-0.1   - Testing and establishing more data sets 
-0.2   - Using Librosa library in more places  
+0.1   - Testing and establishing more data sets<br>
+0.2   - Using Librosa library in more places<br>
 0.21  - Used multi-classification approach 
 0.3   - Improving sampling rate, durational requirements to increase speed via scipy 
 0.31   - Forcedlibrary versions to prevent compatibility errors 
