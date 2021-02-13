@@ -8,7 +8,7 @@ NOTE : This only focuses on Speech to Text-(Conv1d approach) aspect of that proj
 1) Brief Report<br>
 2) Architectural Diagram<br>
 
-## Version History:
+### Version History:
 
 ```
 0.1 - Testing and establishing more data sets
@@ -27,6 +27,12 @@ NOTE : This only focuses on Speech to Text-(Conv1d approach) aspect of that proj
 0.72 - Established sample rate as 16000
 
 Time Frame: 28 Days
+```
+### Libraries Required:
+
+```
+Matplotlib, kiwisolver, cycler, Jit, librosa, IPython, scipy, numpy, numba (0.48.0 version only)
+Pylint, Sklearn, keras, virtualenv, tensorflow, Pyaudio, SoundDevice, requests, SoundFile, darr
 ```
 
 ### Dataset used : https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
