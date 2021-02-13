@@ -8,6 +8,8 @@ NOTE : This only focuses on Speech to Text-(Conv1d approach) aspect of that proj
 1) Brief Report<br>
 2) Architectural Diagram<br>
 
+![alt text](https://github.com/Satvarsh/Conv1d-SpeechToText/blob/main/Conv1d-Architectual%20Model%20Rough.jpg)
+
 ### Version History:
 
 ```
