@@ -8,7 +8,32 @@ NOTE : This only focuses on Speech to Text-(Conv1d approach) aspect of that proj
 1) Brief Report<br>
 2) Architectural Diagram<br>
 
-![alt text](https://github.com/Satvarsh/Conv1d-SpeechToText/blob/main/Conv1d-Architectual%20Model%20Rough.jpg)
+
+
+### Basic Rundown of working:
+
+This is just to understand how things work. Look into Report and Architectural Diagram for more details
+
+1. I first Import and Visualize the dataset I have
+
+![alt text](https://github.com/Satvarsh/Conv1d-SpeechToText/blob/image---Personal-Use/visualize.PNG)
+
+2. Caclulate the count and duration of the audio
+
+![alt text](https://github.com/Satvarsh/Conv1d-SpeechToText/blob/image---Personal-Use/2nd.PNG)
+![alt text](https://github.com/Satvarsh/Conv1d-SpeechToText/blob/image---Personal-Use/duration.PNG)
+
+3. Processing the audio to segregate and create paths
+
+4. Create Conv1D model architecture 
+
+5. Test the data (Below is diagnostic plot for a batch of 16
+
+![alt text](https://github.com/Satvarsh/Conv1d-SpeechToText/blob/image---Personal-Use/diagnostic%20plot.PNG)
+
+6. Get the output
+
+![alt text](https://github.com/Satvarsh/Conv1d-SpeechToText/blob/image---Personal-Use/image.png)
 
 ### Version History:
 
